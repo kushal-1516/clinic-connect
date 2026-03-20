@@ -29,7 +29,7 @@ const Navbar = () => {
             </a>
           ))}
           <a
-            href="tel:07981241900"
+            href="tel:9999999999"
             className="inline-flex items-center gap-2 bg-primary text-primary-foreground px-5 py-2.5 rounded-lg text-sm font-medium hover:opacity-90 active:scale-[0.97] transition-all duration-200"
           >
             <Phone className="w-4 h-4" />
