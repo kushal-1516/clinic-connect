@@ -29,13 +29,13 @@ const Hero = () => {
           </h1>
 
           <p className="font-body text-primary-foreground/80 text-base md:text-lg max-w-md leading-relaxed">
-            Expert dermatology care by Dr. Yamini Indhireddy. Trusted treatments
+            Expert dermatology care by Dr. Yamini. Trusted treatments
             for skin, hair, and aesthetic concerns in Hyderabad.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-3 pt-2">
             <a
-              href="tel:07981241900"
+              href="tel:999999999"
               className="inline-flex items-center justify-center gap-2 bg-primary text-primary-foreground px-7 py-3.5 rounded-lg font-medium hover:opacity-90 active:scale-[0.97] transition-all duration-200"
             >
               <Phone className="w-4 h-4" />
