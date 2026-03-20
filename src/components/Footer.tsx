@@ -13,11 +13,11 @@ const Footer = () => {
           </p>
         </div>
         <a
-          href="tel:07981241900"
+          href="tel:9999999999"
           className="inline-flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground transition-colors"
         >
           <Phone className="w-4 h-4" />
-          079812 41900
+          9999999999
         </a>
       </div>
     </footer>
