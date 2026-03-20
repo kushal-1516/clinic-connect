@@ -19,7 +19,7 @@ const About = () => {
             <div className="aspect-[4/5] rounded-2xl overflow-hidden shadow-xl shadow-foreground/5">
               <img
                 src={drYamini}
-                alt="Dr. Yamini Indhireddy"
+                alt="Dr. Yamini I"
                 className="w-full h-full object-cover"
               />
             </div>
@@ -31,7 +31,7 @@ const About = () => {
               Meet Your Doctor
             </p>
             <h2 className="font-display text-4xl md:text-5xl font-semibold leading-[1.1] tracking-tight">
-              Dr. Yamini Indhireddy
+              Dr. Yamini I
             </h2>
             <p className="font-body text-muted-foreground leading-relaxed max-w-lg">
               With years of dedicated practice in dermatology, Dr. Yamini brings a
